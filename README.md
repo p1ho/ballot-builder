@@ -1,6 +1,7 @@
 # Ballot Builder
 
 This is the group repository for SI-699 team project.
+Scraping stuff [https://onyourballot.vote411.org/index.do]
 
 # Synchronizing workflow
 
