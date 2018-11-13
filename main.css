@@ -1,0 +1,30 @@
+.argument-column {
+  display: inline-block;
+  width: 48%;
+}
+
+.candidate-info {
+  display: inline-block;
+  width: 48%;
+}
+
+.candidate-block {
+  border-bottom-style: solid;
+  border-bottom-color: black;
+  margin-bottom: 2%;
+}
+
+.yes-header {
+  background-color: green;
+  color: white;
+}
+
+.no-header {
+  background-color: red;
+  color: white;
+}
+
+.argument {
+  border-bottom-style: solid;
+  border-bottom-color: black;
+}
